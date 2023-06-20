@@ -1,0 +1,53 @@
+body{
+background-color: antiquewhite;
+}
+.main{
+    width: 300px;
+height: 490px;
+margin: auto;
+border: 16px solid aliceblue;
+border-radius: 5px;
+padding: 20px;
+background-color: skyblue;
+}
+.heading{
+    text-align: center;
+   padding-top:20px;
+    height: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: skyblue;
+	color: white;
+    border: 16px solid aliceblue;
+   
+}
+.input{
+    background-color:cornflowerblue;
+    color: aliceblue; 
+   border:white 3px solid;
+   height: 50px;
+   width: 300px;
+   margin-top: 2px;
+   
+}
+.claerbtn{
+   width: 280px;
+   height: 30px;
+margin-left:12px ;
+background-color:red;
+color: aliceblue;
+border:aliceblue 3px solid;
+}
+
+
+.btn2{margin-left: 14px;
+    margin-right: 23px;
+    width: 60px;
+    height: 40px;
+   justify-content: space-between;
+   background-color:cornflowerblue;
+   color: aliceblue;
+   font-size: large;
+   padding: 2px;
+   border:aliceblue 3px solid;
+}
